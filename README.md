@@ -11,20 +11,27 @@ Utilizar IA para estudar é sempre bom, mas para ter questões com mesma dificul
 
 links:
 
-TODA A MATEMÁTICA DO ENEM EM 12 HORAS:
+-TODA A MATEMÁTICA DO ENEM EM 12 HORAS:
 https://youtu.be/_EmywnyCOM0?si=Z303CVH4dTHB5BnJ
 
-a_redacao_no_enem_2025_cartilha_do_participante.pdf:
+-a_redacao_no_enem_2025_cartilha_do_participante.pdf:
 https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf
 
-Plataforma Assaad:
+-Plataforma Assaad:
 https://plataformaassaad.com.br/blog/artigos/
 
-Tentando tirar 1000 na Redação ENEM (professora 7x nota 1000):
+-Tentando tirar 1000 na Redação ENEM (professora 7x nota 1000):
 https://www.youtube.com/watch?v=5mjRL5ZeS7I
 
-Como ESTUDAR para o ENEM 2026 (Medicina e cursos de alto desempenho):
+-Como ESTUDAR para o ENEM 2026 (Medicina e cursos de alto desempenho):
 https://www.youtube.com/watch?v=AF9MP3spXI4
 
 
+# Engenharia de Prompts e "Cicatrizes"
+
+
+Se você fez inúmeras exercícios do ENEM e queira fazer mais simulados sem repetir com as mesmas questões, esse é o prompt ideal: "crie uma questão sobre [matéria que você queira responder](nível Enem)", ele vai te dar questão totalmente original dele, utilizando fontes que eu embutir.
+Tive dificuldade nas primeiras tentativas usando esse tipo de prompt, pois ENEM Focus não criava, ele só passava questões já existentes. Mas com prompt: "consegue criar uma questão sobre logaritmo( nivel enem), sem utilizar mesma questão que esteja na prova oficial". ENEM Focus, produziu a sua primeira questão original(Nível ENEM). Assim ele capitou a informação que para criar uma questão não é mesma coisa de repassar questões existentes no ENEM, daí para frente não teve mais esse "desentendimento".
+
+A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
 
