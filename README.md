@@ -9,5 +9,22 @@ Utilizar IA para estudar é sempre bom, mas para ter questões com mesma dificul
 
 # Curadora de Fontes
 
+links:
+
+TODA A MATEMÁTICA DO ENEM EM 12 HORAS:
+https://youtu.be/_EmywnyCOM0?si=Z303CVH4dTHB5BnJ
+
+a_redacao_no_enem_2025_cartilha_do_participante.pdf:
+https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf
+
+Plataforma Assaad:
+https://plataformaassaad.com.br/blog/artigos/
+
+Tentando tirar 1000 na Redação ENEM (professora 7x nota 1000):
+https://www.youtube.com/watch?v=5mjRL5ZeS7I
+
+Como ESTUDAR para o ENEM 2026 (Medicina e cursos de alto desempenho):
+https://www.youtube.com/watch?v=AF9MP3spXI4
+
 
 
