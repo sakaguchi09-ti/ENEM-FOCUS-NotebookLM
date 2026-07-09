@@ -9,7 +9,7 @@ Utilizar IA para estudar é sempre bom, mas para ter questões com mesma dificul
 
 # Curadora de Fontes
 
-links:
+Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
 
 -TODA A MATEMÁTICA DO ENEM EM 12 HORAS:
 https://youtu.be/_EmywnyCOM0?si=Z303CVH4dTHB5BnJ
