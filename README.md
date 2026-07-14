@@ -1,6 +1,6 @@
-# ENEM-FOCUS-NotebookLM
+# 📓  ENEM-FOCUS-NotebookLM
 Clique aqui para acessar a:<a href="https://notebooklm.google.com/notebook/5d472a9e-46e2-4ddd-9d88-17c64e4cbf02?authuser=1" target="_blank">
- ENEM FOCUS💻
+ ENEM FOCUS 💻
 </a>
 
 
@@ -60,9 +60,9 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 </details>
 
 <details open>
-  <summary><strong>
+  <summary><strong> 
    
-  ## Mini guia de Estudo
+ ## Mini guia de Estudo</strong></summary>
 
 
 A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
