@@ -59,4 +59,13 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 
 </details>
 
+<details open>
+  <summary><strong>
+   
+  ## Mini guia de Estudo
+
+
 A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
+
+
+</details>
