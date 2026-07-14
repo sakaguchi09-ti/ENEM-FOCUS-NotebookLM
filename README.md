@@ -7,7 +7,7 @@ Clique aqui para acessar a:<a href="https://notebooklm.google.com/notebook/5d472
 Repositório criado para apresentar meu primeiro projeto da DIO utilizando o NotebookLM, explicando como o projeto foi desenvolvido, seus objetivos e como a minha criação pode ser aplicada aos estudos.
 
 
-<details open>
+<details>
   <summary><strong>
 
 ##  🗈 Contexto e Objetivo </strong></summary>
@@ -17,10 +17,10 @@ Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com
 
 </details>
 
-<details open>
+<details>
   <summary><strong>
     
-## 🔗 Principais Fontes</strong></summary>
+## 🔗Principais Fontes</strong></summary>
 
 Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
 
@@ -44,10 +44,10 @@ https://www.youtube.com/watch?v=AF9MP3spXI4
 
 
 
-<details open>
+<details>
   <summary><strong>
     
-## 🗊  Engenharia de Prompts e "Cicatrizes"</strong></summary>
+##  🗊  Engenharia de Prompts e "Cicatrizes"</strong></summary>
 
 
 Se você fez inúmeras exercícios do ENEM e queira fazer mais simulados sem repetir com as mesmas questões, esse é o prompt ideal: "crie uma questão sobre [matéria que você queira responder](nível Enem)", ele vai te dar questão totalmente original dele, utilizando fontes que eu embutir.
@@ -59,10 +59,10 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 
 </details>
 
-<details open>
+<details>
   <summary><strong> 
    
- ## Mini guia de Estudo</strong></summary>
+ ## 🖥️  Mini guia de Estudo</strong></summary>
 
 
 A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
