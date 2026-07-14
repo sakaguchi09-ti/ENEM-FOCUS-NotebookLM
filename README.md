@@ -1,6 +1,12 @@
 # ENEM-FOCUS-NotebookLM
+Clique aqui para acessar a:<a href="https://notebooklm.google.com/notebook/5d472a9e-46e2-4ddd-9d88-17c64e4cbf02?authuser=1" target="_blank">
+ ENEM FOCUS
+</a>
+
 
 Repositório criado para apresentar meu primeiro projeto da DIO utilizando o NotebookLM, explicando como o projeto foi desenvolvido, seus objetivos e como a minha criação pode ser aplicada aos estudos.
+
+
 
 # Contexto e Objetivo
 
@@ -10,7 +16,7 @@ Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com
 <details open>
   <summary><strong>
     
-## Curadora de Fontes</strong></summary>
+## Principais Fontes</strong></summary>
 
 Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
 
