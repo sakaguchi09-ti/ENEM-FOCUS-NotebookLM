@@ -9,7 +9,8 @@ Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com
 
 <details open>
   <summary><strong>
-     ## Curadora de Fontes</strong></summary>
+    
+## Curadora de Fontes</strong></summary>
 
 Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
 
@@ -29,7 +30,7 @@ https://www.youtube.com/watch?v=5mjRL5ZeS7I
 https://www.youtube.com/watch?v=AF9MP3spXI4
 
 
-</details>]
+</details>
 
 
 
@@ -43,4 +44,4 @@ Se você fez inúmeras exercícios do ENEM e queira fazer mais simulados sem rep
 Tive dificuldade nas primeiras tentativas usando esse tipo de prompt, pois ENEM Focus não criava, ele só passava questões já existentes. Mas com prompt: "consegue criar uma questão sobre logaritmo( nivel enem), sem utilizar mesma questão que esteja na prova oficial". ENEM Focus, produziu a sua primeira questão original(Nível ENEM). Assim ele capitou a informação que para criar uma questão não é mesma coisa de repassar questões existentes no ENEM.
 
 A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
-</details>]
+</details>
