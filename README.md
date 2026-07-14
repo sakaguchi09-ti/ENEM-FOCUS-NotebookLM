@@ -7,11 +7,15 @@ Clique aqui para acessar a:<a href="https://notebooklm.google.com/notebook/5d472
 Repositório criado para apresentar meu primeiro projeto da DIO utilizando o NotebookLM, explicando como o projeto foi desenvolvido, seus objetivos e como a minha criação pode ser aplicada aos estudos.
 
 
+<details open>
+  <summary><strong>
 
-# Contexto e Objetivo
+# Contexto e Objetivo </strong></summary>
 
 Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com a mesma dificuldade do ENEM. Por exemplo, mandei prompt dizendo "crie uma questão no nível ENEM, com dificuldade máxima" ou " passa uma questão que caiu no ENEM", IA não vai te dar exercícios realmente elaboradas igual a do ENEM ou mesmo passar questões que já caíram no ENEM. Meu objetivo é criar NotebookLM voltada para o ENEM, com mentor "auxiliando" e fazer com que ferramenta crie "simulados" com ajuda do "Raciocínio do Pedro Assaad" (Pedro Assaad é um educador e criador de conteúdo voltado à preparação para o ENEM e vestibulares, ele conquistou destaque ao obter resultados expressivos no ENEM e desenvolver uma metodologia focada na compreensão dos conteúdos, resolução estratégica de questões e alto desempenho dos alunos). Deixando mais prático tanto no caso do nível elevado das questões para poder treinar e tanto na compreenssão mais aprofundada com ajuda do Pedro Assaad.
 
+
+</details>
 
 <details open>
   <summary><strong>
