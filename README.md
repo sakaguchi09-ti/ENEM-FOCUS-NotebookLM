@@ -10,7 +10,7 @@ Repositório criado para apresentar meu primeiro projeto da DIO utilizando o Not
 <details open>
   <summary><strong>
 
-## Contexto e Objetivo </strong></summary>
+##  🗈 Contexto e Objetivo </strong></summary>
 
 Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com a mesma dificuldade do ENEM. Por exemplo, mandei prompt dizendo "crie uma questão no nível ENEM, com dificuldade máxima" ou " passa uma questão que caiu no ENEM", IA não vai te dar exercícios realmente elaboradas igual a do ENEM ou mesmo passar questões que já caíram no ENEM. Meu objetivo é criar NotebookLM voltada para o ENEM, com mentor "auxiliando" e fazer com que ferramenta crie "simulados" com ajuda do "Raciocínio do Pedro Assaad" (Pedro Assaad é um educador e criador de conteúdo voltado à preparação para o ENEM e vestibulares, ele conquistou destaque ao obter resultados expressivos no ENEM e desenvolver uma metodologia focada na compreensão dos conteúdos, resolução estratégica de questões e alto desempenho dos alunos). Deixando mais prático tanto no caso do nível elevado das questões para poder treinar e tanto na compreenssão mais aprofundada com ajuda do Pedro Assaad.
 
@@ -20,7 +20,7 @@ Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com
 <details open>
   <summary><strong>
     
-## Principais Fontes</strong></summary>
+## 🔗 Principais Fontes</strong></summary>
 
 Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
 
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=AF9MP3spXI4
 <details open>
   <summary><strong>
     
-## Engenharia de Prompts e "Cicatrizes"</strong></summary>
+## 🗊  Engenharia de Prompts e "Cicatrizes"</strong></summary>
 
 
 Se você fez inúmeras exercícios do ENEM e queira fazer mais simulados sem repetir com as mesmas questões, esse é o prompt ideal: "crie uma questão sobre [matéria que você queira responder](nível Enem)", ele vai te dar questão totalmente original dele, utilizando fontes que eu embutir.
