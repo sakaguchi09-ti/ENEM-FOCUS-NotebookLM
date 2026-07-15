@@ -65,7 +65,15 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
  ## 🖥️  Mini guia de Estudo</strong></summary>
 
 
-A parte da redação tambem é importante, caso queira pedir para corrigir sua redação é so usar prompt como: "corrigi para mim essa redação [redação que você criou], seguindo o tema [tema que você se baseou]".Ou até mesmo pedir para ele criar digitando esse prompt:"faça uma redação seguindo o tema [TEMA]".E quando quiser a explicação como ENEM Focus elaborou a redação e só usar "explique cada parágrafo detalhando quais foram as teses e os argumentos".
+Prompt que você pode utilizar para explorar maximo a ferramenta:
+
+- Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
+
+- Corrija a redação [Redação feita por você], seguindo o tema [Tema da Redação], explicando detalhadamente os pontos importantes, tanto positivo , tanto negativo.;
+
+- Gere um video ensinando sobre [Matéria ou Assunto , que quira estudar];
+
+- Crie uma questão nível ENEM, sobre [Assunto específico para praticar]. Bem elaborada, com dificuldade máxima.
 
 
 </details>
