@@ -4,7 +4,7 @@ Clique :<a href="https://notebooklm.google.com/notebook/5d472a9e-46e2-4ddd-9d88-
 </a>
 
 
-Repositório criado para apresentar meu primeiro projeto da DIO utilizando o NotebookLM, explicando como o projeto foi desenvolvido, seus objetivos e como a minha criação pode ser aplicada aos estudos.
+Repositório criado para apresentar meu primeiro projeto da DIO utilizando NotebookLM, explicando como o projeto foi desenvolvido, seus objetivos e como a minha criação pode ser aplicada aos estudos.
 
 
 <details>
