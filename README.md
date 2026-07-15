@@ -64,7 +64,9 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
    
  ## 🖥️  Mini guia de Estudo</strong></summary>
 
-### Principais conceitos aprendidos:
+<details>
+  <summary><strong>
+   ### Principais conceitos aprendidos:</strong></summary>
 
 - A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts).
 
@@ -72,10 +74,12 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 
 - NotebookLM é multfuncional (ótimo utilidade para estudo, criar conteúdo gerando vídeo, apresantações de slides). 
 
+</details>
 
 
-
-###Prompt que você pode utilizar para explorar maximo a ferramenta:
+ <details>
+  <summary><strong>
+ ### Prompt que você pode utilizar para explorar maximo a ferramenta:</strong></summary>
 
 - Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
 
