@@ -75,7 +75,7 @@ O ENEM FOCUS demonstra como a Inteligência Artificial pode ser utilizada para p
 <details>
   <summary><strong>
   
-   ### Principais conceitos aprendidos: </strong></summary>
+   ### Principais conceitos aprendidos </strong></summary>
 
 - A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts);
 
@@ -88,7 +88,7 @@ O ENEM FOCUS demonstra como a Inteligência Artificial pode ser utilizada para p
  <details>
   <summary><strong>
  
-   ### Prompt que você pode utilizar para explorar maximo a ferramenta:</strong></summary>
+   ### Prompt que você pode utilizar para explorar maximo a ferramenta</strong></summary>
 
 - Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
 
