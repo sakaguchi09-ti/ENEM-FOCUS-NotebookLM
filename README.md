@@ -64,8 +64,18 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
    
  ## 🖥️  Mini guia de Estudo</strong></summary>
 
+### Principais conceitos aprendidos:
 
-Prompt que você pode utilizar para explorar maximo a ferramenta:
+- A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts).
+
+- Atualizando sempre as fontes, para que não haja informções/dados incorretas nas respostas.
+
+- NotebookLM é multfuncional (ótimo utilidade para estudo, criar conteúdo gerando vídeo, apresantações de slides). 
+
+
+
+
+###Prompt que você pode utilizar para explorar maximo a ferramenta:
 
 - Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
 
