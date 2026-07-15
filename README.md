@@ -66,7 +66,8 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 
 <details>
   <summary><strong>
-   ### Principais conceitos aprendidos:</strong></summary>
+  
+   ### Principais conceitos aprendidos: </strong></summary>
 
 - A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts).
 
@@ -79,7 +80,8 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
 
  <details>
   <summary><strong>
- ### Prompt que você pode utilizar para explorar maximo a ferramenta:</strong></summary>
+ 
+   ### Prompt que você pode utilizar para explorar maximo a ferramenta:</strong></summary>
 
 - Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
 
