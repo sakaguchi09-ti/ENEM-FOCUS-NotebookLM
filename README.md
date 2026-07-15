@@ -64,17 +64,24 @@ No primeiro momento, queria deixar com personalidade do Pedro nas respostas gera
    
  ## 🖥️  Mini guia de Estudo</strong></summary>
 
+
+<details>
+  <summary><strong>
+  
+   ### Resumo geral do ENEM FOCUS </strong></summary>
+O ENEM FOCUS demonstra como a Inteligência Artificial pode ser utilizada para potencializar os estudos quando alimentada com fontes confiáveis e orientada por prompts bem estruturados. O projeto oferece uma alternativa prática para estudantes que desejam treinar com questões inéditas, aprimorar a redação e aprofundar seus conhecimentos de forma personalizada, aproximando a experiência de preparação das exigências reais do ENEM. 
+
+</details>
 <details>
   <summary><strong>
   
    ### Principais conceitos aprendidos: </strong></summary>
 
-- A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts).
+- A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts);
 
-- Atualizando sempre as fontes, para que não haja informções/dados incorretas nas respostas.
+- A atualização constante das fontes melhora significativamente a confiabilidade das respostas;
 
-- NotebookLM é multfuncional (ótimo utilidade para estudo, criar conteúdo gerando vídeo, apresantações de slides). 
-
+- O NotebookLM vai muito além de um chatbot, podendo atuar como uma plataforma completa de estudos.
 </details>
 
 
