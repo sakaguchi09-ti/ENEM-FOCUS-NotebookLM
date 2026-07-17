@@ -1,5 +1,5 @@
 # 📓  ENEM-FOCUS-NotebookLM
-Clique aqui para acessar a ENEM FOCUS 💻 <a href="https://notebooklm.google.com/notebook/5d472a9e-46e2-4ddd-9d88-17c64e4cbf02?authuser=1" target="_blank">
+Clique aqui para acessar a ENEM FOCUS 💻 <ahref="https://notebooklm.google.com/notebook/5d472a9e-46e2-4ddd-9d88-17c64e4cbf02?authuser=1" target="_blank">
 </a>
 
 
