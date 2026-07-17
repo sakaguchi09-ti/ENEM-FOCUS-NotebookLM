@@ -12,7 +12,13 @@ Repositório criado para apresentar meu primeiro projeto da DIO utilizando Noteb
 
 ##  🗈 Contexto e Objetivo </strong></summary>
 
-Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com a mesma dificuldade do ENEM. Por exemplo, mandei prompt dizendo "crie uma questão no nível ENEM, com dificuldade máxima" ou " passa uma questão que caiu no ENEM", IA não vai te dar exercícios realmente elaboradas igual a do ENEM ou mesmo passar questões que já caíram no ENEM. Meu objetivo é criar NotebookLM voltada para o ENEM, com mentor "auxiliando" e fazer com que ferramenta crie "simulados" com ajuda do "Raciocínio do Pedro Assaad" (Pedro Assaad é um educador e criador de conteúdo voltado à preparação para o ENEM e vestibulares, ele conquistou destaque ao obter resultados expressivos no ENEM e desenvolver uma metodologia focada na compreensão dos conteúdos, resolução estratégica de questões e alto desempenho dos alunos). Deixando mais prático tanto no caso do nível elevado das questões para poder treinar e tanto na compreenssão mais aprofundada com ajuda do Pedro Assaad.
+Utilizar IA para estudar é uma excelente estratégia, mas ainda existe uma limitação importante: a dificuldade das questões geradas. Por exemplo, mesmo utilizando prompts como *"crie uma questão no nível ENEM, com dificuldade máxima"* ou *"passe uma questão que já caiu no ENEM"*, a IA dificilmente consegue produzir exercícios com o mesmo nível de elaboração, contextualização e complexidade das questões oficiais do exame. Além disso, ela também pode não reproduzir fielmente questões já aplicadas.
+
+Pensando nisso, meu objetivo é criar um **NotebookLM voltado exclusivamente para o ENEM**, funcionando como um mentor de estudos. A proposta é utilizar a ferramenta para gerar simulados e questões inspirados na estrutura e no nível de exigência do exame, aliados ao **raciocínio e à metodologia de Pedro Assaad**.
+
+Pedro Assaad é educador e criador de conteúdo especializado na preparação para o ENEM e vestibulares. Ele se destacou pelos excelentes resultados obtidos no exame e por desenvolver uma metodologia baseada na compreensão profunda dos conteúdos, na resolução estratégica de questões e na construção do raciocínio necessário para alcançar alto desempenho.
+
+Dessa forma, o NotebookLM não apenas produzirá questões mais desafiadoras para treino, mas também auxiliará na compreensão aprofundada dos assuntos, explicando a lógica por trás das respostas e incentivando a forma de pensar utilizada por Pedro Assaad na resolução das questões. O objetivo é tornar o estudo mais eficiente, estratégico e próximo da experiência exigida pelo ENEM.
 
 
 </details>
@@ -22,7 +28,7 @@ Utilizar IA para estudar é sempre bom, mas é complicado praticar questões com
     
 ## 🔗Principais Fontes</strong></summary>
 
-Aqui estão os 5 links principais que eu utilizei como fonte para ENEM FOCUS:
+Aqui estão os 5 links principais que utilizei como fonte para o ENEM FOCUS:
 
 -TODA A MATEMÁTICA DO ENEM EM 12 HORAS:
 https://youtu.be/_EmywnyCOM0?si=Z303CVH4dTHB5BnJ
@@ -49,13 +55,24 @@ https://www.youtube.com/watch?v=AF9MP3spXI4
     
 ##  🗊  Engenharia de Prompts e "Cicatrizes"</strong></summary>
 
+Se você já resolveu grande parte das questões do ENEM e deseja praticar com novos simulados sem repetir exercícios oficiais, este é um dos prompts mais úteis:
+"Crie uma questão sobre [matéria desejada] (nível ENEM)."
+Com esse comando, o ENEM Focus passa a gerar questões originais, utilizando apenas as fontes que foram incorporadas ao NotebookLM como base de conhecimento.
 
-Se você fez inúmeras exercícios do ENEM e queira fazer mais simulados sem repetir com as mesmas questões, esse é o prompt ideal: "crie uma questão sobre [matéria que você queira responder](nível Enem)", ele vai te dar questão totalmente original dele, utilizando fontes que eu embutir.
-Tive dificuldade nas primeiras tentativas usando esse tipo de prompt, pois ENEM Focus não criava, ele só passava questões já existentes. Mas com prompt: "consegue criar uma questão sobre logaritmo( nivel enem), sem utilizar mesma questão que esteja na prova oficial". ENEM Focus, produziu a sua primeira questão original(Nível ENEM). Assim ele capitou a informação que para criar uma questão não é mesma coisa de repassar questões existentes no ENEM.
+Nas primeiras tentativas, encontrei uma limitação: ao solicitar questões no nível ENEM, a ferramenta apenas reproduzia exercícios que já existiam. Para contornar esse problema, refinei o prompt para:
+"Consegue criar uma questão sobre logaritmo (nível ENEM), sem utilizar a mesma questão que esteja na prova oficial?"
+A partir desse ajuste, o ENEM Focus gerou sua primeira questão totalmente original, mantendo o padrão de dificuldade e o estilo característico do ENEM. Esse pequeno refinamento fez a ferramenta compreender que criar uma questão é diferente de apenas reproduzir questões já aplicadas.
 
-No primeiro momento, queria deixar com personalidade do Pedro nas respostas geradas, criei fonte :"Comporte-se como Pedro Assaad, ensine extamente do jeito dele (extrai o máximo de comportamentos, maneira como ele ensina e age, dentro das fontes, e aplique o jeito dele nas respostas) deixando menos robótico as respostas."
-, comportamento dele ficou "igual" a do Pedro, porém, as respostas ficaram muito repetitivas. Por exemplo, ele sempre mandava saudação "Fala, querido! Por aqui o clima é de foco total e alta performance. ", como era meio redundante, mandei prompt: " a saudação [...], pode mandar uma vez por dia, pois esta sendo repetitivo" , para deicar mais normal a reação dele nas respostas.
+Outro objetivo era fazer com que as respostas tivessem uma personalidade mais próxima da utilizada por Pedro Assaad. Para isso, adicionei uma fonte com a seguinte instrução:
+"Comporte-se como Pedro Assaad. Ensine exatamente do jeito dele, extraindo o máximo possível de seus comportamentos, da forma como explica os conteúdos e conduz o raciocínio dentro das fontes fornecidas, aplicando esse estilo às respostas para torná-las menos robóticas."
+O resultado foi bastante satisfatório: o ENEM Focus passou a responder de maneira muito semelhante ao estilo de ensino do Pedro, tornando as explicações mais naturais e envolventes.
 
+No entanto, surgiu um novo problema. A IA começou a repetir a mesma saudação em praticamente todas as respostas, utilizando frases como:
+"Fala, querido! Por aqui o clima é de foco total e alta performance."
+Como isso deixava as interações artificiais e repetitivas, fiz um novo ajuste com o seguinte prompt:
+"Essa saudação pode aparecer apenas uma vez por dia, pois está ficando repetitiva."
+
+Com essa simples alteração, as respostas ficaram muito mais naturais, mantendo a personalidade inspirada no Pedro Assaad sem exagerar na repetição de expressões. Esse processo mostrou que pequenos refinamentos nos prompts podem melhorar significativamente a experiência de uso e tornar a interação mais fluida e realista.
 
 </details>
 
@@ -77,11 +94,12 @@ O ENEM FOCUS demonstra como a Inteligência Artificial pode ser utilizada para p
   
    ### Principais conceitos aprendidos </strong></summary>
 
-- A ferramenta não vai entender os principais objetivos, caso não colocar as informações necessárias (fontes, perguntas e prompts);
+- A ferramenta só conseguirá atingir os objetivos esperados se receber as informações necessárias, como **fontes confiáveis, perguntas bem estruturadas e prompts específicos**. Quanto melhor a base fornecida, mais precisas e relevantes serão as respostas.
 
-- A atualização constante das fontes melhora significativamente a confiabilidade das respostas;
+- A atualização constante das fontes melhora significativamente a confiabilidade, a precisão e a qualidade das respostas geradas, mantendo o conteúdo alinhado às informações mais recentes e relevantes.
 
-- O NotebookLM vai muito além de um chatbot, podendo atuar como uma plataforma completa de estudos.
+- O NotebookLM vai muito além de um simples chatbot. Quando bem configurado, ele pode atuar como uma **plataforma completa de estudos**, auxiliando na compreensão dos conteúdos, na geração de simulados, na resolução de dúvidas, na revisão de matérias e na personalização do aprendizado conforme as necessidades do estudante.
+
 </details>
 
 
@@ -90,13 +108,10 @@ O ENEM FOCUS demonstra como a Inteligência Artificial pode ser utilizada para p
  
    ### Prompt que você pode utilizar para explorar maximo a ferramenta</strong></summary>
 
-- Faça redação NOTA1000, Tema é [Digite qualquer temas que desejar!];
-
-- Corrija a redação [Redação feita por você], seguindo o tema [Tema da Redação], explicando detalhadamente os pontos importantes, tanto positivo , tanto negativo.;
-
-- Gere um video ensinando sobre [Matéria ou Assunto , que quira estudar];
-
-- Crie uma questão nível ENEM, sobre [Assunto específico para praticar]. Bem elaborada, com dificuldade máxima.
+1. Faça uma redação nota 1000 sobre o tema: [digite o tema desejado].
+2. Corrija a seguinte redação: [cole sua redação], considerando o tema [tema da redação]. Avalie conforme os critérios do ENEM, atribua uma nota para cada competência, explique detalhadamente os pontos positivos e negativos e apresente sugestões de melhoria com exemplos práticos.
+3. Gere um vídeo-aula ensinando sobre [matéria ou assunto que deseja estudar], utilizando exemplos, linguagem didática e exercícios ao final para fixação do conteúdo.
+4. Crie uma questão inédita no nível ENEM sobre [assunto específico], sem reproduzir questões já aplicadas em provas oficiais. A questão deve ser bem contextualizada, apresentar dificuldade elevada, conter cinco alternativas (A–E), apenas uma correta e uma explicação detalhada da resolução.
 
 
 </details>
